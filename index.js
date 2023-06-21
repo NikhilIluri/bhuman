@@ -1,1 +1,1 @@
-export * from "./src/Highlights";
+export * from "./src/Highlights/index";
