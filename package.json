@@ -1,0 +1,24 @@
+{
+  "name": "bhuman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/NikhilIluri/bhuman.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NikhilIluri/bhuman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NikhilIluri/bhuman/issues"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "react"
+  ]
+}
