@@ -4,10 +4,11 @@
   "description": "",
   "main": "react/index",
   "scripts": {
-    "clean": "rimraf outline solid package *.tgz",
+    "clean": "rimraf src react Highlights package *.tgz",
     "export": "figma-export use-config figma.config.js",
     "test": "node test.js",
-    "build": "run-s clean export",
+    "bundle": "rollup --config",
+    "build": "run-s clean export bundle",
     "np": "np",
     "release": "run-s build np"
   },
